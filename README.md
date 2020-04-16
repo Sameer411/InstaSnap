@@ -2,7 +2,9 @@
 InstaSnap is an Android Application in which user can upload photos like Instagram or Facebook. 
 
 
-To access the application go to following location find APK File and install in your smartphone
+To access the application go to following location find APK File and install in your smartphone. Before going to Location Download the file and Extract zip file
+
+
 Location: - app/ build/ outputs/ apk/ debug/ app-debug.apk
 
 There are 4 sections in the appplication 
